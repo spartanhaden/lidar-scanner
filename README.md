@@ -1,4 +1,4 @@
-# 1k-nm-3d-mapping
+# Handheld 3D LiDAR scanner
 Photogrametry and LiDAR reconstruction in the range of ~400-905 nm
 
 ![Rendering](lazer_boi.png)
