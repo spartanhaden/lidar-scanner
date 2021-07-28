@@ -1,17 +1,19 @@
 # Handheld 3D LiDAR scanner
-Photogrametry and LiDAR reconstruction in the range of ~400-905 nm
+This repo contains the CAD files for a handheld LiDAR scanner I made for fun.
+<!-- Photogrametry and LiDAR reconstruction in the range of ~400-905 nm -->
 
+## Renders
 ![Render front](render_front.png)
 ![Render back](render_back.png)
 
 ## SLAM Video
 [![SLAM video](https://img.youtube.com/vi/sC4UldL-__I/0.jpg)](https://www.youtube.com/watch?v=sC4UldL-__I)
 
-This repo contains the CAD files for a project I made on a whim.
+<!-- Here is the BOM. I tried to keep the descriptions to minimun of what will work. If you want the exact parts I linked the McMaster Carr items I got. This will give you extras on many parts due to the quantity McMaster ships. -->
 
-Here is the BOM. I tried to keep the descriptions to minimun of what will work. If you want the exact parts I linked the McMaster Carr items I got. This will give you extras on many parts due to the quantity McMaster ships.
+<!-- The design is still slightly unbalanced since I designed it with future expansion in mind and ordered some of the parts before determining the center of gravity for the current design. -->
 
-The design is still slightly unbalanced since I designed it with future expansion in mind and ordered some of the parts before determining the center of gravity for the current design.
+## BOM
 
 | Part                | Quantity | Link                                                          | Comment                                         |
 |---------------------|----------|---------------------------------------------------------------|-------------------------------------------------|
