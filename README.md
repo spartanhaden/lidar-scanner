@@ -6,6 +6,12 @@ This repo contains the CAD files for a handheld LiDAR scanner I made for fun.
 ![Render front](images/render_front.png)
 ![Render back](images/render_back.png)
 
+## Images
+![Front](images/front.jpg)
+![back_left](images/back_left.jpg)
+![compute](images/compute.jpg)
+![back_right](images/back_right.jpg)
+
 ## SLAM Video
 [![SLAM video](https://img.youtube.com/vi/sC4UldL-__I/0.jpg)](https://www.youtube.com/watch?v=sC4UldL-__I)
 
@@ -14,7 +20,6 @@ This repo contains the CAD files for a handheld LiDAR scanner I made for fun.
 <!-- The design is still slightly unbalanced since I designed it with future expansion in mind and ordered some of the parts before determining the center of gravity for the current design. -->
 
 ## BOM
-
 | Part                | Quantity | Link                                                          | Comment                                         |
 |---------------------|----------|---------------------------------------------------------------|-------------------------------------------------|
 | Livox Horizon       | 1        | [Livox Horizon](https://www.livoxtech.com/horizon)            | LiDAR                                           |
