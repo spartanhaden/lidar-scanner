@@ -4,7 +4,7 @@ Photogrametry and LiDAR reconstruction in the range of ~400-905 nm
 ![Render](lidar.png)
 
 ## SLAM Video
-[![Alt text](https://img.youtube.com/vi/sC4UldL-__I/0.jpg)](https://www.youtube.com/watch?v=sC4UldL-__I)
+[![SLAM video](https://img.youtube.com/vi/sC4UldL-__I/0.jpg)](https://www.youtube.com/watch?v=sC4UldL-__I)
 
 This repo contains the CAD files for a project I made on a whim.
 
