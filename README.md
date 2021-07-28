@@ -1,7 +1,7 @@
 # Handheld 3D LiDAR scanner
 Photogrametry and LiDAR reconstruction in the range of ~400-905 nm
 
-![Rendering](lazer_boi.png)
+![Render](lidar.png)
 
 ## SLAM Video
 [![Alt text](https://img.youtube.com/vi/sC4UldL-__I/0.jpg)](https://www.youtube.com/watch?v=sC4UldL-__I)
